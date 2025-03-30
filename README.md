@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ronjmartin
 - 👀 I’m interested in designing the best experiences 
-- 🌱 I’m currently learning HCD and Product Management at the ID program in Chicago
+- 🌱 Currently growing in my role as an Innovation Consultant at Tata Chicago
 - 📫 ronaldjmartin@gmail.com
 
 <!---
